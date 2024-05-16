@@ -1,6 +1,6 @@
-# raspcandy
+# Raspcandy
 
-A new Flutter project.
+Es una aplicación móvil para el uso de la máquina expendedora de dulces Raspcandy. Como base utiliza Flutter.
 
 ## Getting Started
 
